@@ -10,10 +10,13 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
+    "@okta/oidc-middleware": "2.0.0",
     "@turf/boolean-point-in-polygon": "6.0.1",
     "@turf/helpers": "6.1.4",
     "aws-serverless-express": "3.3.6",
+    "dotenv": "8.0.0",
     "express": "4.17.1",
+    "express-session": "1.16.1",
     "node-fetch": "2.6.0",
     "topojson-client": "3.0.0"
   },
