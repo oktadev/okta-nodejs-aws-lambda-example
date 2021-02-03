@@ -10,7 +10,7 @@ To install this example application, run the following commands:
 
 ```bash
 git clone git@github.com:oktadeveloper/okta-nodejs-aws-lambda-example.git
-cd okta-express-graphql-example
+cd okta-nodejs-aws-lambda-example
 npm install
 ```
 
