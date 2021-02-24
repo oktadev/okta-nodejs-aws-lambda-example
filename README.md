@@ -61,6 +61,8 @@ node .
 
 This example uses the [Okta Node SDK](https://github.com/okta/okta-sdk-nodejs) and the [Okta JWT Verifier](https://github.com/okta/okta-oidc-js/tree/master/packages/jwt-verifier).
 
+**IMPORTANT**: When deploying application to AWS Lambda, make sure to upload your NPM dependencies. https://stackoverflow.com/questions/34437900/how-to-load-npm-modules-in-aws-lambda
+
 ## Help
 
 Please [raise an issue](https://github.com/oktadeveloper/okta-nodejs-aws-lambda-example/issues) if you find a problem with the example application, or visit our [Okta Developer Forums](https://devforum.okta.com/). You can also email [developers@okta.com](mailto:developers@okta.com) if would like to create a support ticket.
