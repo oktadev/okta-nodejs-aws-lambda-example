@@ -10,7 +10,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "@okta/oidc-middleware": "2.0.0",
+    "@okta/oidc-middleware": "5.0.0",
     "@turf/boolean-point-in-polygon": "6.0.1",
     "@turf/helpers": "6.1.4",
     "aws-serverless-express": "3.3.6",
